@@ -1,0 +1,7 @@
+igraph
+ggplot2
+grid
+plyr
+dplyr
+expm
+reshape2
